@@ -1,2 +1,13 @@
-# AI_Notebooks
 # AIPractice
+
+Тут собраны решения курсов по всем областям машинного обучения, буд то ML, CV, DL или NLP. Так же небольшие практические проекты будут поститься в соотвествующие тематике папке
+
+
+
+| Name                                       | Field | Language | Link                                                                                                                                                                                                                                                                                              | Bullets | Status |
+| ------------------------------------------ | ----- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
+| Учебник по машинному обучению         | ML    | RU       | [Yandex](https://education.yandex.ru/handbook/ml)                                                                                                                                                                                                                                                 | #ML     |   In progress     |
+| Open Machine Learning Course           | ML    | EN       | [Web](https://mlcourse.ai/book/index.html)                                                                                                                                                                                                                                                        | #ML     |        |
+| ML Course                              | ML    | RU       | [Github](https://github.com/girafe-ai/ml-course/tree/23f_yandex_ml_trainings)                                                                                                                                                                                                                     | #ML     |        |
+| Курс для Computer Vision разработчиков | CV    | RU       | [YT](https://www.youtube.com/watch?si=HSjMo17dKinc_JiB&v=dXWs7__0Epc&feature=youtu.be)                                                                                                                                                                                                            | #CV     |   In Progress     |
+| Deep Learning на пальцах               | DL    | RU       | [Web](https://dlcourse.ai/)                                                                                                                                                                                                                                                                       | #DL     |        |
